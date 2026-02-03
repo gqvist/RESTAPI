@@ -15,7 +15,7 @@ Database name: RestApiDB
 Testdata added using SQL-queries
 
 ## ER-Diagram
-![Link to ER Diagram]([http://url/to/img.png](https://i.postimg.cc/pWZy3QqM/ER.png))
+![Link to ER Diagram](https://postimg.cc/gLPF9nkh)
 
 ## API Endpoints
 
